@@ -14,4 +14,9 @@ public class IssueService {
     public List<com.example.its.domain.issue.IssueEntity> findAll() {
         return issueRepository.findAll();
     }
+
+    // TODO トランザクション
+    public void create(String summary, String description) {
+        issueRepository.insert(summary, description);
+    }
 }
