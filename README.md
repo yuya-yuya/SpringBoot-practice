@@ -8,4 +8,6 @@
 バリデーション作成
 <img width="1445" alt="スクリーンショット 2022-06-12 13 56 18" src="https://user-images.githubusercontent.com/68839987/173215210-d9364793-27e5-4c59-9cf5-c1a3f3d41920.png">
 <h3>詳細画面</h3>
-<img width="1390" alt="スクリーンショット 2022-06-12 13 56 27" src="https://user-images.githubusercontent.com/68839987/173215224-99bec6d3-34f8-44ea-93aa-33a182ecea05.png">
+<img width="1390" alt="スクリーンショット 2022-06-12 13 56 27" src="https://user-images.githubusercontent.com/68839987/173215224-99bec6d3-34f8-44ea-93aa-33a182ecea05.png"><br>
+
+<practice2>
