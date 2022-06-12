@@ -1,4 +1,5 @@
 <h1>Spring bootコトハジメ</h1>
+<p>spring bootの基本的なCRUDの学習</p>
 <h2>practice1</h2>
 <h3>トップページ</h3>
 <img width="1440" alt="スクリーンショット 2022-06-12 13 55 54" src="https://user-images.githubusercontent.com/68839987/173215185-75268688-1805-4cac-9678-9f9e9f7518ca.png">
