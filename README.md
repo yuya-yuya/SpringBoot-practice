@@ -10,4 +10,4 @@
 <h3>詳細画面</h3>
 <img width="1390" alt="スクリーンショット 2022-06-12 13 56 27" src="https://user-images.githubusercontent.com/68839987/173215224-99bec6d3-34f8-44ea-93aa-33a182ecea05.png"><br>
 
-<practice2>
+<h2>practice2</h2>
